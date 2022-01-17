@@ -1,13 +1,13 @@
 
 <h1  align="center">Calculadora CachBack</h1>
 
-Um aplicativo que calcula o valor total de uma conta baseado nas informaÁıes dadas pelo usuario. 
-Podendo aplicar um cupom de desconto e/ou uma porcentagem de Cachback, o usuario receber· o valor total que dever· pagar na sua compra.
+Um aplicativo que calcula o valor total de uma conta baseado nas informa√ß√µes dadas pelo usuario. 
+Podendo aplicar um cupom de desconto e/ou uma porcentagem de Cachback, o usuario receber√° o valor total que dever√° pagar na sua compra.
   
 <h3> Telas do aplicativo em um celular Galaxy A01</h3>
 
 <p float="left">
-<img  alt="Imagem mostrando a tela inicial do aplicativo"  title="DemonstraÁ„o aplicativo, tela inicial"  src="screenshots/telaPrincipal.jpg" width="300"> 
+<img  alt="Imagem mostrando a tela inicial do aplicativo"  title="Demonstra√ß√£o aplicativo, tela inicial"  src="screenshots/telaprincipal.jpg" width="300"> 
 
 
 
